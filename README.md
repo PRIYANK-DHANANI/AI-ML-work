@@ -6,3 +6,4 @@
 |3-feb-2025|Python for datascience|Homework-https://colab.research.google.com/drive/11q67frOQDgwLnaGOFG4ry3cigWiAdqJI?usp=sharing|
 |5th Feb 2025|pandas and numpy|Homework<br>numpy 100:https://colab.research.google.com/drive/1oubV8hOB5VV6Q-XOtu59Of1sFoCQ75Gq?usp=sharing<br>10 graph(P) & 10<br>graph(N):https://colab.research.google.com/drive/1zkwzGqAC8TAmzYfnEsAtBJjs70xUY0YW?usp=sharing|
 |Feb 2025|Assignment 4|Homework:https://colab.research.google.com/drive/1vc0Zug8O9ONOnDICDEAi7CCTyCtJmc74?usp=sharing|
+||Assignment 6|dataset of cancer_classification.csv<br>ANN:https://colab.research.google.com/drive/1PYVwFgCcL7kwlFSKqCpV85IweUae2_1Z?usp=sharing<br>CNN:https://colab.research.google.com/drive/1C5-9FyGaNQQtd2m4AIEvMkE2Tq72dAaU?usp=sharing|
